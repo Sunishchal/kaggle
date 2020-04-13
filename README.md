@@ -1,2 +1,2 @@
 # kaggle
-n chill
+Competition collab repo
